@@ -74,20 +74,9 @@ OOI is layered so philosophical commitments map to concrete, auditable infrastru
 
 Shells are the licensable, host‑sovereign layers that enforce boundedness, interpretability, drift detection, and operator controls.
 
-| Shell | Description |
-|---|---|
-| **SafeSkin** | Bounded outputs and coherence corridors |
-| **SmartSkin** | Role‑aware, human‑legible translation of outputs |
-| **SmartDrift** | Long‑arc drift and degradation detection |
-| **JitterShell** | Temporal instability and oscillation management |
-| **4D‑GR Shell** | Phase‑aware, oscillatory interpretation logic |
-| **SmartScience** | Constraint‑aware scientific/medical scaffolding |
-| **SafeVault** | Output protection, IP boundaries, misuse resistance |
-| **RELSkin** | Context‑sensitive alignment between intelligences and roles |
-
 ### Physics Spine (Internal Reasoning)
 
-Beneath the shells sits the physics spine: kernel orchestration, coherence dynamics, resonance modeling, drift/entropy balancing, and bounded reasoning structures. This layer encodes the operating logic that keeps shells coherent under pressure and is intentionally non‑consumer facing.
+Beneath the shells sits the physics spine: kernel orchestration, coherence dynamics, resonance modeling, drift/entropy balancing, and bounded reasoning structures. This layer encodes the operating logic that keeps shells coherent under pressure.
 
 ### Domain Reference Builds
 
