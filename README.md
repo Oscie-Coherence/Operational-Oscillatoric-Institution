@@ -60,79 +60,65 @@ Response generation → Operational modeling
 Symbolic plausibility → Bounded execution
 Static interaction → Dynamic system behavior
 
+---
 
-Why OI Exists
+## Why OI Exists
+
 OI exists to define a complete product architecture for intelligence that can function reliably in consequence-bearing environments — environments shaped by:
 
-Human roles and judgment
-Institutional processes
-Operational timing
-Uncertainty and change
-Physical or procedural constraints
-Recovery requirements
-Long-term stability needs
+- Human roles and judgment
+- Institutional processes
+- Operational timing
+- Uncertainty and change
+- Physical or procedural constraints
+- Recovery requirements
+- Long-term stability needs
 
 The goal is not just to answer well.
 The goal is to make intelligence usable where reality pushes back.
 
+---
+
 Repository Contents
 This repository contains the three core public documents that define OI:
 
+- Constitution.md - The non-negotiable governing structure, 12 constitutional articles, and institutional commitments required for execution-grade intelligence.
+- Execution-Intelligence.md - Full specification of how intelligence moves from world-state understanding to bounded execution, including the execution loop and core architecture.
+- Operational-Intelligence.md - High-level framing of the broader category shift from descriptive AI toward operational intelligence systems.
 
-Documents
-Constitution.md - The non-negotiable governing structure, 12 constitutional articles, and institutional commitments required for execution-grade intelligence.
-Execution-Intelligence.md - Full specification of how intelligence moves from world-state understanding to bounded execution, including the execution loop and core architecture.
-Operational-Intelligence.md - High-level framing of the broader category shift from descriptive AI toward operational intelligence systems.
+---
 
-Core Architecture
+## Core Architecture
+
 OI is structured as an integrated product stack:
+Ontology + Law + Simulation + Control + Compression + Rendering + Governance + Deployment
 
-Ontology — What exists
-Law — What is allowed
-Simulation — What could happen
-Control — What should happen
-Compression — What is learned
-Rendering — What is seen
-Governance — What is bounded
-Deployment — What becomes real
-
-textOI = Ontology + Law + Simulation + Control + Compression + Rendering + Governance + Deployment
-This is not just a model or interface — it is a complete product architecture for execution-grade intelligence.
-
-What Makes OI Different
-
-Execution over description — Centered on selecting workable paths under real conditions, not producing the most plausible response.
-Workflows over raw accumulation — Treats reusable operational structure as a core learning unit.
-Stability as a native requirement — Assumes drift, perturbation, and recovery are normal parts of real systems.
-Governance by design — Boundaries, legibility, and auditability are structural requirements, not afterthoughts.
+What Makes OI Different:
+- Execution over description — Centered on selecting workable paths under real conditions, not producing the most plausible response.
+- Workflows over raw accumulation — Treats reusable operational structure as a core learning unit.
+- Stability as a native requirement — Assumes drift, perturbation, and recovery are normal parts of real systems.
+- Governance by design — Boundaries, legibility, and auditability are structural requirements, not afterthoughts.
 
 
-Who OI Is For
+---
+
+## Who OI Is For
+
 OI is relevant to builders, researchers, founders, operators, and institutions working in:
+- AI systems design
+- Operational software and infrastructure
+- Simulation and modeling systems
+- Healthcare, mobility, energy, and civic systems
+- Governance, safety, and human-in-the-loop environments
 
-AI systems design
-Operational software and infrastructure
-Simulation and modeling systems
-Healthcare, mobility, energy, and civic systems
-Governance, safety, and human-in-the-loop environments
-
-
-Short Version
 Most AI is built to describe what should happen.
 OI is built to help intelligence operate under real conditions.
 
-About OOI Institute
-OOI Institute is the company behind OI.
-This repository is part of OOI Institute’s public release surface for execution-grade intelligence.
+---
 
-Status
-This is an early public release of the OI framework.
-The repository is intended as a living foundation for public documentation, technical framing, and future domain-specific materials.
+## Notes
 
-License
-All rights reserved © OOI Institute.
-This repository documents the public architecture and principles of OI. Implementation details and derivative works are governed by separate licensing. Contact the institute for partnership or licensing inquiries.
-
-Made with resonance and rigor by the OOI Institute.
+This repository documents the public architecture and principles of OI. Implementation details and derivative works are governed by separate licensing. Contact the institute for partnership or licensing inquiries. Made with resonance and rigor by the OOI Institute.
 For questions, collaboration, or domain-specific implementations, reach out through OOI Institute channels.
-Most AI describes. OI executes.
+
+All rights reserved © OOI Institute.
