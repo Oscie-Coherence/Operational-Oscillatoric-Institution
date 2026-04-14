@@ -20,7 +20,7 @@ Real systems do not exist in language alone. They evolve through:
 
 OI establishes the **architectural and governance layer** required for intelligence to function coherently under these conditions.
 
-## What OOI Is
+## What OI Is
 
 OI is not a model, product, or application.
 
